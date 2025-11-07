@@ -10,7 +10,7 @@ st.write("Enter a city name below to check the current weather 🌍")
 city = st.text_input("City name", "")
 
 # OpenWeatherMap API setup
-api_key = "YOUR_API_KEY_HERE"  # Replace with your OpenWeatherMap API key
+api_key = "7055d7ad4fb2f20cd481886345bba8a6"  # Replace with your OpenWeatherMap API key
 base_url = "https://api.openweathermap.org/data/2.5/weather"
 
 if city:
