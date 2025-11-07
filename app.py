@@ -3,8 +3,7 @@ import requests
 
 st.set_page_config(page_title="🌦️ Weather App", page_icon="🌤️", layout="centered")
 
-st.title("st.title("🌦️ Weather App by Yar Muhammad")
-")
+st.title("🌦️ Weather App by Yar Muhammad")
 st.write("Enter a city name below to check the current weather 🌍")
 
 # Input box for city
